@@ -12,21 +12,21 @@
 
 ## Task 2
 ### Stack
-- **File:** [Stack.c](https://github.com/nebimal/Hands-On8/blob/main/Stack.c;)
+- **File:** [Stack.c](https://github.com/nebimal/Hands-On8/blob/main/Stack.c)
 - **Usage:**  
   Run the script by typing:
   ```bash
   gcc Stack.c
   ./a.out
 ### Queue
-- **File:** [Queue.c](https://github.com/nebimal/Hands-On8/blob/main/Queue.c;)
+- **File:** [Queue.c](https://github.com/nebimal/Hands-On8/blob/main/Queue.c)
 - **Usage:**  
   Run the script by typing:
   ```bash
   gcc Queue.c
   ./a.out
 ### LinkedList
-- **File:** [LinkedList.c](https://github.com/nebimal/Hands-On8/blob/main/LinkedList.c;)
+- **File:** [LinkedList.c](https://github.com/nebimal/Hands-On8/blob/main/LinkedList.c)
 - **Usage:**  
   Run the script by typing:
   ```bash
